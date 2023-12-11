@@ -1,5 +1,5 @@
 .Quiz {
-    width: 600px;
+    width: 700px;
     height: 500px;
     border-radius: 10px;
     background-color: lightseagreen;
@@ -8,6 +8,10 @@
     justify-content: center;
     align-items: center;
     color: white;
+}
+
+.Quiz h1 {
+    text-align: center;
 }
 
 .Quiz button {
