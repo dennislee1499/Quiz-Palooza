@@ -1,0 +1,42 @@
+export const Questions = [
+  {
+    prompt: "Which of the following is used in React.js to increase performance?",
+    optionA: "Virtual Dom",
+    optionB: "Original Dom",
+    optionC: "Both A and B",
+    optionD: "None of the above",
+    answer: "A",
+  },
+  {
+    prompt: "A state in React.js is also known as?",
+    optionA: "External storage of the component",
+    optionB: "The internal storage of the component",
+    optionC: "Permanent storage",
+    optionD: "All of the above",
+    answer: "B",
+  },
+  {
+    prompt: "Which of the following method is used to access the state of a component from inside of a member function?",
+    optionA: "this.prototype.stateValue",
+    optionB: "this.getState()",
+    optionC: "this.values",
+    optionD: "this.state",
+    answer: "C",
+  },
+  {
+    prompt: "What are arbitrary inputs of components in react also known as?",
+    optionA: "Elements",
+    optionB: "Props",
+    optionC: "Keys",
+    optionD: "Ref",
+    answer: "B",
+  },
+  {
+    prompt: "Using which of the following command can prevent default behaviour at in react?",
+    optionA: "preventDefault()",
+    optionB: "avoidDefault()",
+    optionC: "revokeDefault()",
+    optionD: "None of the above",
+    answer: "A",
+  },
+];
